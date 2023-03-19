@@ -10,7 +10,7 @@ export default defineConfig({
       includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'safari-pinned-tab.svg'],
       manifest: {
         name: 'Seah Bimbingan',
-        short_name: 'SBim',
+        short_name: 'Seah Bimbingan',
         description: 'Aplikasi pencatat bimbingan dengan dosen.',
         theme_color: '#ffffff',
         icons: [
