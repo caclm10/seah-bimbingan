@@ -10,6 +10,7 @@ Welcome to the repository for the "Seah Bimbingan" web application. "Seah Bimbin
 - Capture the advisor's name, guidance topics, date, and additional notes.
 - Access the application offline after installation.
 - Data is stored locally, ensuring privacy and easy access.
+- Mobile-Focused Experience: "Seah Bimbingan" is designed with a primary focus on mobile users, offering a seamless and user-friendly mobile experience. While the application is accessible on desktop devices, you may find that it provides an optimal experience when used on mobile devices.
 
 ## Usage
 
