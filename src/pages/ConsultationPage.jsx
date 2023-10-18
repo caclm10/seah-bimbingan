@@ -41,7 +41,7 @@ const ConsultationPage = () => {
                         isClosable: true
                     })
 
-                    navigate(`/`)
+                    navigate(`/`, { replace: true })
 
                 }
             }),

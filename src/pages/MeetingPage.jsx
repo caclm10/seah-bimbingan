@@ -36,7 +36,7 @@ const MeetingPage = () => {
                         duration: 3000
                     })
 
-                    navigate(`/consultations/${consultationId}`)
+                    navigate(`/consultations/${consultationId}`, { replace: true })
                 }
             }),
             props: {

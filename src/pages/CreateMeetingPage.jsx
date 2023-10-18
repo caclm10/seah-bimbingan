@@ -24,7 +24,7 @@ const CreateMeetingPage = () => {
             isClosable: true
         })
 
-        if (createdId) navigate(`/consultations/${consultationId}/meetings/${createdId}`)
+        if (createdId) navigate(`/consultations/${consultationId}/meetings/${createdId}`, { replace: true })
     }
 
 

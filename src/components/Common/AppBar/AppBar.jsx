@@ -20,6 +20,7 @@ const AppBar = () => {
                     <IconButton
                         as={Link}
                         to={backTo}
+                        replace
                         variant="ghost"
                         colorScheme="purple"
                         rounded="full"
