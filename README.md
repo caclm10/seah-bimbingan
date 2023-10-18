@@ -1,6 +1,6 @@
 # Seah Bimbingan - Personal Guidance Notes App
 
-Welcome to the repository for the "Seah Bimbingan" web application. "Seah Bimbingan" is a simple personal guidance notes application that allows you to record important details of your guidance sessions with your advisor, including the type of guidance (e.g., "Skripsi," "PKL," etc.). This application includes features such as recording your advisor's name, guidance topics, date of the session, and additional notes. The app is built using[React](https://react.dev) and [Chakra UI](https://chakra-ui.com) and is hosted online, so there's no need for manual installation. You can access it at [https://seah-bimbingan.vercel.app](https://seah-bimbingan.vercel.app).
+Welcome to the repository for the "Seah Bimbingan" web application. "Seah Bimbingan" is a simple personal guidance notes application that allows you to record important details of your guidance sessions with your advisor, including the type of guidance (e.g., "Skripsi," "PKL," etc.). This application includes features such as recording your advisor's name, guidance topics, date of the session, and additional notes. The app is built using [React](https://react.dev) and [Chakra UI](https://chakra-ui.com) and is hosted online, so there's no need for manual installation. You can access it at [https://seah-bimbingan.vercel.app](https://seah-bimbingan.vercel.app).
 
 **Note**: "Seah Bimbingan" was originally developed as a personal project for my own use.
 
