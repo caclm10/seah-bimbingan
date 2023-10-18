@@ -22,7 +22,7 @@ const CreateConsultationPage = () => {
             isClosable: true
         })
 
-        navigate(`/consultations/${createdId}/edit`)
+        navigate(`/consultations/${createdId}`)
     }
 
     return (
